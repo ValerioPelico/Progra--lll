@@ -18,7 +18,7 @@ import planilla_ventana.Planilla_ventana;     // importamos los paquetes donde s
 
 /**
  *
- * @autor Valerio Pelicó
+ * @autor Valerio Pelicó Guox
  * 0901-16-11957
  */
 public class TodosLosProgramas {

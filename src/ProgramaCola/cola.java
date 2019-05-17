@@ -8,7 +8,8 @@ package ProgramaCola;
 
 /**
  *
- * @author Valerio Pelicó
+ * @author Valerio Pelicó Guox
+ * 0901-16-19957
  */
 public class cola {
     NodoCola inicio, fin;

@@ -9,7 +9,8 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Valerio Pelicó
+ * @author Valerio Pelicó Guox
+ * 0901-16-11957
  */
 public class ProyectoCola {
 

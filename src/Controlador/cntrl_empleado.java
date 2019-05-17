@@ -10,8 +10,8 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @autor Angel Ruiz
- * 0901-16-17865
+ * @autor Valerio Pelicó Guox
+ * 0901-16-11957
  */
 public class cntrl_empleado implements ActionListener {
     

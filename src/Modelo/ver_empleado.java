@@ -7,8 +7,8 @@ import java.sql.SQLException;
 
 /**
  *
- * @autor Angel Ruiz
- * 0901-16-17865
+ * @autor Valerio Pelicó Guox
+ * 0901-16-11957
  */
 public class ver_empleado extends Conexion {
      

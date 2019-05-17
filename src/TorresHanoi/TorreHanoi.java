@@ -3,8 +3,8 @@ package TorresHanoi;
 
 /**
  *
- * @autor Angel Ruiz
- * 0901-16-17865
+ * @autor VAlerio Pelicó Guox
+ * 0901-16-11957
  */
 import java.util.*;
 public class TorreHanoi {
